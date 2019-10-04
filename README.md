@@ -30,14 +30,23 @@ Profissão:
 As 10 principais profissões entre os investidores do tesouro direto são:
  
 OUTROS                                     **227605**
+
 ENGENHEIRO                                  **81630**
+
 ADMINISTRADOR                               **80263**
-EMPRESÁRIO                                  56121
-ANALISTA DE SISTEMAS                        47413
+
+EMPRESÁRIO                                  **56121**
+
+ANALISTA DE SISTEMAS                        **47413**
+
 MÉDICO                                      **44508**
+
 ESTUDANTE                                   **43827**
+
 ADVOGADO                                    **38066**
+
 BANCARIO E ECONOMIÁRIO                      **29566**
+
 APOSENTADO (EXCETO FUNCIONÁRIO PÚBLICO)     **24613**
  
 Plotadas em um gráfico de pizza fica:
@@ -49,13 +58,21 @@ Estado Civil:
 O estado civil dos investidores é:
  
 Solteiro(a)                                    **484944**
+
 Casado(a) com brasileiro(a) nato(a)            **435753**
+
 Divorciado(a)                                   **57459**
+
 União estável                                   **51644**
+
 Viúvo(a)                                        **10737**
+
 Separado judic.                                  **7873**
+
 Desquitado(a)                                      **78**
+
 Casado(a) com brasileiro(a) naturalizado(a)        **44**
+
 Casado(a) com estrangeiro(a)                       **43**
 
 ![image004](https://user-images.githubusercontent.com/20607306/66218413-81009b80-e69f-11e9-9066-7de6e92cd66a.png)
@@ -67,28 +84,47 @@ Há uma concentração grande no sudeste, sobretudo nas capitais.
 Estado:
  
 SP    **422390**
+
 RJ    **132816**
+
 MG     **88579**
+
 PR     **62485**
+
 RS     **56398**
+
 SC     **45629**
+
 DF     **38037**
+
 BA     **31119**
+
 GO     **22454**
+
 ES     **21213**
 
 ![image005](https://user-images.githubusercontent.com/20607306/66218424-8bbb3080-e69f-11e9-8c0a-6b1660a9b4c0.png)
 
 Cidades:
+
 SAO PAULO         **210523**
+
 RIO DE JANEIRO     **89801**
+
 BRASILIA           **37879**
+
 BELO HORIZONTE     **35388**
+
 CURITIBA           **28773**
+
 PORTO ALEGRE       **21232**
+
 SALVADOR           **18839**
+
 CAMPINAS           **17563**
+
 FORTALEZA          **14462**
+
 RECIFE             **12826**
 
 ![image006](https://user-images.githubusercontent.com/20607306/66218693-0f751d00-e6a0-11e9-8234-e1dadae32f1d.png)
@@ -101,10 +137,15 @@ Agora dando uma olhada mais de perto nas operações:
 Quais são os títulos mais operados no tesouro direto?
  
 Tesouro IPCA+                             **421039**
+
 Tesouro Prefixado                         **249953**
+
 Tesouro Selic                             **212320**
+
 Tesouro IPCA+ com Juros Semestrais        **120258**
+
 Tesouro Prefixado com Juros Semestrais     **44840**
+
 Tesouro IGPM+ com Juros Semestrais           **165**
  
 ![image007](https://user-images.githubusercontent.com/20607306/66218759-33386300-e6a0-11e9-9968-88ff9df915bf.png)
